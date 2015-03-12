@@ -1,5 +1,5 @@
 # statistical-yearbook
-和歌山県統計年鑑【平成25年刊行】です。http://www.pref.wakayama.lg.jp/prefg/020300/nenkan/2013/h25.html
+　和歌山県統計年鑑【平成25年刊行】です。http://www.pref.wakayama.lg.jp/prefg/020300/nenkan/2013/h25.html
 
 ###（GitHubアカウント「wakayama-pref-org」について）
 　「wakayama-pref-org」は、オープンデータのニーズ把握や、技術者の方等との協働した地域課題の解決等のために和歌山県情報政策課が、試験的に運用しているものです。
